@@ -1,3 +1,9 @@
+# NOTICE
+
+## This is not originally my code and I have no intention of maintaining it. Fork created to maintain functionality of tools relying upon this module's existence. 
+
+--------
+
 # tf_threatstack_aws_integration
 Setup Threat Stack <-> AWS integration module
 
